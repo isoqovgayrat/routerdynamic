@@ -1,4 +1,8 @@
 <template>
+
+
+
+
  <Navigation/>
   <router-view v-slot="{Component}">
 <transition name="fade" mode="out-in">
